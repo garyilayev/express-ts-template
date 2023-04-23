@@ -6,6 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "build": "tsc",
+    "watch": "tsc -w",
     "dev": "nodemon dist/index.js"
   },
   "keywords": [],
